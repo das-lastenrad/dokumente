@@ -1,2 +1,2 @@
-# dokumente
-Dokumente und Formularvorlagen für den reibungslosen Verleih
+# Dokumente
+Nützliche Dokumente und Formularvorlagen für den Verleih offener Lastenräder.
