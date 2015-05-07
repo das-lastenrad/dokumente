@@ -4,3 +4,6 @@ Nützliche Dokumente und Formularvorlagen für den Verleih offener Lastenräder
  - Checkliste für die Ausleihe
  - Formular für die Ausleihe (Personalien, Bestätigen der Nutzungsbedingungen, ...)
  - Nutzungsbedingungen
+
+Die Dokumente können mit der freien Software Libre-Office bearbeitet werden:
+https://de.libreoffice.org/
